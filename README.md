@@ -1,4 +1,4 @@
-# joolie-pb-at
+# JoolieArtes
 
 ## Project setup
 ```
